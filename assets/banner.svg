@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Claw / cl5w</title>
+  <desc id="desc">Software developer and founder of Dynasty Plugins. A dark banner with blue accents and a code window.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101827"/><stop offset="1" stop-color="#090d14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="55" y1="0" x2="1145" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#345ad4"/><stop offset="0.7" stop-color="#a3b6ff"/><stop offset="1" stop-color="#345ad4" stop-opacity="0.1"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#a3b6ff" stroke-opacity="0.045"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="318" rx="20" fill="url(#bg)" stroke="#28344a"/>
+  <rect x="1" y="1" width="1198" height="318" rx="20" fill="url(#grid)"/>
+  <path d="M56 49H1144" stroke="url(#accent)" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="56" y="91" fill="#a3b6ff" font-size="12" font-weight="700" letter-spacing="3">DEVELOPER / DYNASTY PLUGINS FOUNDER</text>
+    <text x="52" y="171" fill="#f4f7ff" font-size="76" font-weight="700" letter-spacing="-2">Claw<tspan fill="#a3b6ff" font-size="38" font-weight="400" letter-spacing="-1"> / cl5w</tspan></text>
+    <text x="56" y="213" fill="#b6c2d6" font-size="21">Minecraft plugins. Discord tools. Web projects.</text>
+    <text x="56" y="266" fill="#7f91ad" font-size="13" letter-spacing="1.2">JAVA  /  TYPESCRIPT  /  JAVASCRIPT</text>
+  </g>
+  <rect x="848" y="91" width="270" height="157" rx="12" fill="#101a2b" stroke="#344567"/>
+  <path d="M848 127H1118" stroke="#344567"/>
+  <circle cx="868" cy="110" r="4" fill="#5574b0"/><circle cx="884" cy="110" r="4" fill="#688acd"/><circle cx="900" cy="110" r="4" fill="#a3b6ff"/>
+  <g font-family="Consolas, monospace" font-size="17">
+    <text x="869" y="161" fill="#a3b6ff">&gt; build something</text>
+    <text x="869" y="192" fill="#c6d2e8">  useful.</text>
+    <text x="869" y="225" fill="#7f91ad">  clw.bio<tspan fill="#a3b6ff"> _</tspan></text>
+  </g>
+</svg>
